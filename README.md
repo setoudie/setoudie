@@ -88,13 +88,12 @@ Je suis un **Développeur Data** passionné, spécialisé dans la conception de 
 
 ---
 
-## 🎯 Nouveaux objectifs pour 2024
+## 🎯 Objectifs pour 2025
 
 - 🎓 **Trouver un stage** : Intégrer une entreprise innovante pour appliquer mes compétences en Data Engineering et Machine Learning.
 - 🌐 **Développer mon réseau professionnel** : Participer à des événements tech, hackathons et conférences pour rencontrer des professionnels du secteur.
 - 🚀 **Contribuer à des projets open-source** : M'impliquer dans des projets open-source pour partager mes connaissances et apprendre des autres.
 - 📚 **Approfondir mes compétences en IA avancée** : Explorer des domaines comme le Reinforcement Learning et l'IA générative.
-- 💼 **Préparer mon entrée sur le marché du travail** : Affiner mon CV, mon portfolio et mes compétences en entretien.
 
 ---
 
